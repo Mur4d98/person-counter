@@ -1,0 +1,53 @@
+body {
+    background-image: url("https://i0.wp.com/newyorksimply.com/wp-content/uploads/2021/12/Times-Square-04378.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: #d4ebfa;
+    border: 5px solid black;
+    border-radius: 40px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 46px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #e6e6e6;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+p {
+    font-size: 30px;
+}
+
+#increment-btn {
+    background: #ff4500;
+}
+
+#save-btn {
+    background: darkgreen;
+}
